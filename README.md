@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  💡 Desenvolvedor Front-end focado em interfaces modernas, responsivas, usáveis e automações inteligentes.
+  💡 Desenvolvedor Full-Stack focado em interfaces modernas, responsivas, usáveis e automações inteligentes.
 </p>
 
 <hr>
