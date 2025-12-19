@@ -14,7 +14,7 @@
 <!-- COLUNA ESQUERDA -->
 <td width="60%" valign="top">
 
-## 🚀 Sobre mim
+## 💁🏾‍♂️ Sobre mim
 
 Sou proativo e focado em resultados, sempre buscando a melhor solução para cada desafio.  
 Tenho forte compromisso com o *aprendizado contínuo* e com o desenvolvimento de soluções eficientes e bem estruturadas.
@@ -24,7 +24,7 @@ Também utilizo *Node.js* para lógica de negócio e integrações simples no ba
 
 ---
 
-## 🧠 Tecnologias
+## 💻 Tecnologias
 
 **Front-end**  
 HTML5 • CSS3 • JavaScript • React  
